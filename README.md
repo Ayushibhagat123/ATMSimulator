@@ -1,2 +1,2 @@
-# ATMSimulator
-ATM Simulator using Java Swing and JDBC
+# My Projects
+List of projects i have worked on
